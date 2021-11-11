@@ -1,4 +1,7 @@
-# jicaro
+# Jicaro
+
+## What is Jicaro?
+
 
 ## Project setup
 ```

@@ -1,0 +1,20 @@
+//In this file global styles are defined
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Slabo+13px&display=swap");
+
+//Fonts
+
+$Slabo: "Slabo 13px", serif;
+$Quicksand: "Lato", sans-serif;
+
+body {
+  font-family: $Quicksand;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $Slabo;
+}
